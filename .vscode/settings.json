@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "chrono": "cpp",
+        "ranges": "cpp",
+        "variant": "cpp",
+        "compare": "cpp",
+        "cstdint": "cpp",
+        "format": "cpp"
+    }
+}
